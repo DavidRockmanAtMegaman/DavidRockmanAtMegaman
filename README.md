@@ -25,11 +25,11 @@ object **SEU NOME** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRockManAtMegaman&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRockManAtMegaman&theme=merko&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidRockmanAtMegaman&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidRockmanAtMegaman&show_icons=true&theme=merko&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 
@@ -39,3 +39,4 @@ object **SEU NOME** {
 
 #### Rede Sociais!
 👔 [linkedin][linkedin]
+
