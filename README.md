@@ -1,18 +1,41 @@
-- 👋 Hi, I’m @DavidRockmanAtMegaman
+### DavidRockmanAtMegaman
 
-- 👀 I’m interested in ...
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🌱 I’m currently learning ...
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 💞️ I’m looking to collaborate on ...
+```Python/Java
+object **SEU NOME** {
+ val name = "DavidRockmanAtMegaman"
+ val acknowledgements = "Back-end"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python") 
 
-- 📫 How to reach me ...
+}
+```
 
-  
+## **Linguagens e Ferramentas:**  
 
-<!---
-DavidRockmanAtMegaman/DavidRockmanAtMegaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidRockmanAtmegaman&theme=default)
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRockManAtMegaman&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidRockmanAtMegaman&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+
+
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+👔 [linkedin][linkedin]
